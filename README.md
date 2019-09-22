@@ -1,4 +1,4 @@
-#DevOps
+# DevOps
 
-Trunk-based dev
+## Trunk-based dev
 * https://cloud.google.com/solutions/devops/devops-tech-trunk-based-development
