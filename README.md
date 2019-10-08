@@ -24,3 +24,7 @@ https://twitter.com/jezhumble/status/1175171015900426240
 ## Liveness and Readiness Probes
 
 https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html
+
+## JVM Tuning
+
+https://medium.com/adorsys/jvm-memory-settings-in-a-container-environment-64b0840e1d9e
