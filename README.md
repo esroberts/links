@@ -1,5 +1,9 @@
 # DevOps
 
+## Observability
+
+https://twitter.com/mipsytipsy/status/1024608798336475136 
+
 ## Deployment
 
 https://charity.wtf/2019/05/01/friday-deploy-freezes-are-exactly-like-murdering-puppies/amp/
