@@ -1,5 +1,9 @@
 # DevOps
 
+## Deployment
+
+https://charity.wtf/2019/05/01/friday-deploy-freezes-are-exactly-like-murdering-puppies/amp/
+
 ## Source Control
 
 > Source control is a communication mechanism
