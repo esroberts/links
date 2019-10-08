@@ -4,6 +4,8 @@
 
 https://charity.wtf/2019/05/01/friday-deploy-freezes-are-exactly-like-murdering-puppies/amp/
 
+https://charity.wtf/2018/08/19/shipping-software-should-not-be-scary/
+
 ## Source Control
 
 > Source control is a communication mechanism
