@@ -48,7 +48,20 @@ Why not just RSS from ps?
  
 ### Little's Law
 
-rps = app instances / avg response time
+rps = app instances / avg response time†
+
+† avg response time - you're only as good as your slowest requests so consider using 95th percentile instead.  Also depends on response time variance.  Less variance is more predicable.  Other factors like I/O and CPU also play a role and can cause deviations from Little's Law.  See https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html
+
+### Scaling Up
+
+Only scales throughput, not performance.  Only matters when requests are starting to queue.  Also impacts database which can only scale vertically.
+
+What's a good ratio of app instances?  Somewhere in the 35-40% range, actual usage vs theoretical.
+
+3 levers
+ - # application instances
+ - response time
+ - response time variability
 
 https://www.speedshop.co/2017/10/12/appserver.html
 
