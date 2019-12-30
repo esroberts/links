@@ -70,7 +70,7 @@ Request Queueing - https://stackoverflow.com/questions/20402801/what-is-optimal-
 passenger-status - https://www.phusionpassenger.com/library/admin/apache/overall_status_report.html
 passenger memory usage - https://www.phusionpassenger.com/library/indepth/accurately_measuring_memory_usage.html
 
-#Management
+# Management
 
 If you ever worry about leaving the world of being an IC and going into management, read this and then read it again. Having done this pendulum swing multiple times I can say this article is right on the mark. Doing both in your career will give you assasin-level awareness and insight if you can execute both successfully. 
 https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/amp/
