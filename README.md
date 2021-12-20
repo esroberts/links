@@ -1,3 +1,9 @@
+#[Golang](go/README.md)
+
+#[Leadership](management/README.md)
+
+#[Ruby](ruby/README.md)
+
 # DevOps
 
 ## Observability
@@ -29,6 +35,4 @@ https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html
 
 https://medium.com/adorsys/jvm-memory-settings-in-a-container-environment-64b0840e1d9e
 
-#[Leadership](management/README.md)
 
-#[Ruby](ruby/README.md)
