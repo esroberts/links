@@ -2,6 +2,8 @@
 
 https://twitter.com/mipsytipsy/status/1024608798336475136 
 
+[PromQL Admin](https://promlabs.com/blog/2020/12/17/promql-queries-for-exploring-your-metrics)
+
 # Deployment
 
 https://charity.wtf/2019/05/01/friday-deploy-freezes-are-exactly-like-murdering-puppies/amp/
